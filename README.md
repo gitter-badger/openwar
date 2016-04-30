@@ -1,5 +1,7 @@
 # OpenWar
 
+[![Join the chat at https://gitter.im/openwar-hq/openwar](https://badges.gitter.im/openwar-hq/openwar.svg)](https://gitter.im/openwar-hq/openwar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build](https://drone.io/github.com/andreas-jonsson/openwar/status.png)](https://drone.io/github.com/andreas-jonsson/openwar/latest)
 [![Bountysource](https://api.bountysource.com/badge/team?team_id=144507)](https://www.bountysource.com/teams/openwar)
 
